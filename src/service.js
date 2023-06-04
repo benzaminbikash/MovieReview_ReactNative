@@ -10,3 +10,4 @@ export const documentary = `${apiUrl}/discover/movie?${api_key}&with_genres=99`
 
 // export const getMovie = `${apiUrl}/movie/${id}?${api_key}`
 //  `https://api.themoviedb.org/3/movie/${id}?api_key=f6ffd9944913182603bcb59dbab7c133`,
+// `https://api.themoviedb.org/3/search/${type}?api_key=f6ffd9944913182603bcb59dbab7c133&query=${query}`,
